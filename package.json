@@ -1,6 +1,6 @@
 {
   "name": "a01-azaria-p",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This package contains a very simple web server that takes one argument for port and then serves any files inside the public directory.",
   "main": "server.js",
   "scripts": {
